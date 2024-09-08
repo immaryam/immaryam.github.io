@@ -1,26 +1,28 @@
 *{
 box-sizing:border-box;
-margin-right: 20px;
+margin:20px;
 }
 section{
 position:relative;
+background-color: grey;
+font-family:sans-serif;
 }
 p
 {
 margin-top: 10%;
+padding:5px;
 }
 .top-right{
 position:absolute;
 margin:0;
 top:0;
 right:0;
-padding:5px;
+padding:6px;
 }
 
 #section1 h3{
 background-color:yellow;
 border: 1px solid black;
-margin-bottom: 5px;
 }
 #section2 h3{
 background-color:darkred;
